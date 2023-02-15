@@ -38,7 +38,7 @@ jobs:
         arguments: build
         
     - name: Upload Artifact
-      uses: actions/upload-artifact@3
+      uses: actions/upload-artifact@v3
       with:
         name: greetings-jar
         path: build/libs
