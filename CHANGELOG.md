@@ -1,3 +1,13 @@
+# [0.2.0](https://github.com/Foggy-J/greetings-ci/compare/v0.1.2...v0.2.0) (2023-02-15)
+
+
+### Features
+
+* upload artifact ([923e814](https://github.com/Foggy-J/greetings-ci/commit/923e814fee9d913bda56733251e80b4ca37b0bd8))
+* upload artifact ([6b9e04b](https://github.com/Foggy-J/greetings-ci/commit/6b9e04bf66127e03a4e5b48eb4641e313dcb5161))
+
+
+
 ## [0.1.2](https://github.com/Foggy-J/greetings-ci/compare/v0.1.1...v0.1.2) (2023-02-15)
 
 
