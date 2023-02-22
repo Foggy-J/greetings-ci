@@ -1,3 +1,12 @@
+# [0.5.0](https://github.com/Foggy-J/greetings-ci/compare/v0.4.0...v0.5.0) (2023-02-22)
+
+
+### Features
+
+* move test script to composite action ([#7](https://github.com/Foggy-J/greetings-ci/issues/7)) ([7b1ccbe](https://github.com/Foggy-J/greetings-ci/commit/7b1ccbe4ba4236d034b52d51a0f6e402626e4d1d))
+
+
+
 # [0.4.0](https://github.com/Foggy-J/greetings-ci/compare/v0.3.0...v0.4.0) (2023-02-15)
 
 
@@ -32,15 +41,6 @@
 ### Bug Fixes
 
 * reset change log ([10b9c90](https://github.com/Foggy-J/greetings-ci/commit/10b9c904cf9f51cf186db226808624d0e5d69d45)), closes [#2](https://github.com/Foggy-J/greetings-ci/issues/2)
-
-
-
-## [0.1.1](https://github.com/Foggy-J/greetings-ci/compare/v0.1.0...v0.1.1) (2023-02-15)
-
-
-### Bug Fixes
-
-* reset change log ([c30a752](https://github.com/Foggy-J/greetings-ci/commit/c30a75281e282eeae7fa64c20ad72b50e6af7e49))
 
 
 
