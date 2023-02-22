@@ -1,3 +1,12 @@
+# [0.6.0](https://github.com/Foggy-J/greetings-ci/compare/v0.5.0...v0.6.0) (2023-02-22)
+
+
+### Features
+
+* add deployment ([7f52b47](https://github.com/Foggy-J/greetings-ci/commit/7f52b47bb2dae10b088dd458877956dbe676f030))
+
+
+
 # [0.5.0](https://github.com/Foggy-J/greetings-ci/compare/v0.4.0...v0.5.0) (2023-02-22)
 
 
@@ -32,15 +41,6 @@
 
 * upload artifact ([923e814](https://github.com/Foggy-J/greetings-ci/commit/923e814fee9d913bda56733251e80b4ca37b0bd8))
 * upload artifact ([6b9e04b](https://github.com/Foggy-J/greetings-ci/commit/6b9e04bf66127e03a4e5b48eb4641e313dcb5161))
-
-
-
-## [0.1.2](https://github.com/Foggy-J/greetings-ci/compare/v0.1.1...v0.1.2) (2023-02-15)
-
-
-### Bug Fixes
-
-* reset change log ([10b9c90](https://github.com/Foggy-J/greetings-ci/commit/10b9c904cf9f51cf186db226808624d0e5d69d45)), closes [#2](https://github.com/Foggy-J/greetings-ci/issues/2)
 
 
 
